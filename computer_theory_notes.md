@@ -48,6 +48,19 @@
 		<td colspan="3">An empty string is denoted by λ </td>
 	</tr>
 	<tr>
+		<td><b>Length of a string</b></td>
+		<td colspan="2">The lengh of a string is shown as |s|. It shows the numbers of letters in the string.</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<ul>
+				<li>&Sigma; = {a,b}</li>
+				<li>s = ababa</li>
+				<li>|s| = 5</li>
+			</ul>
+		 </td>
+	</tr>
+	<tr>
 		<td><b>Kleene star or Kleene closure</b></td>
 		<td colspan="2">We can apply the kleene star operator to a set. This creates a set of all possible strings. A = {0, 1} A* = {λ, 0, 1, 00, 01, 10,  11, 000, 001...} </td>
 	</tr>
@@ -57,7 +70,7 @@
 	</tr>
 	<tr>
 		<td><b>Words</b></td>
-		<td colspan="2">Words are strings that are allowed in the langauge. Words can be thought of rules for the language.   B = </td>
+		<td colspan="2">Words are strings that are allowed in the langauge. Words can be thought of rules for the language.</td>
 	</tr>
 	<tr>
 		<td colspan="3">
