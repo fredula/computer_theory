@@ -29,6 +29,18 @@
 		 </td>
 	</tr>
 	<tr>
+		<td><b>Strings</b></td>
+		<td colspan="2">Concatenation of symbols from alphabet are called strings.</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<ul>
+				<li>&Sigma; = {a,b}</li>
+			</ul>
+			a,abab,abababababab are all valid strings.
+		 </td>
+	</tr>
+	<tr>
 		<td><b>Empty or null string</b></td>
 		<td colspan="2">Every alphabet contains a string with no characters. This is the null or empty string.</td>
 	</tr>
