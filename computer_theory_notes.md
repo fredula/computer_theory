@@ -61,6 +61,19 @@
 		 </td>
 	</tr>
 	<tr>
+		<td><b>Reverse of a string</b></td>
+		<td colspan="2">The reverse of a string is denoted by rev(s) or s^r for string s. It's the string written in reverse order.</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<ul>
+				<li>&Sigma; = {a,b,c}</li>
+				<li>s = abc</li>
+				<li>s^r = cba</li>
+			</ul>
+		 </td>
+	</tr>
+	<tr>
 		<td><b>Kleene star or Kleene closure</b></td>
 		<td colspan="2">We can apply the kleene star operator to a set. This creates a set of all possible strings. A = {0, 1} A* = {λ, 0, 1, 00, 01, 10,  11, 000, 001...} </td>
 	</tr>
