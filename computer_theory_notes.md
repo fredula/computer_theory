@@ -1,5 +1,12 @@
 <table>
 	<tr>
+		<td colspan="3"><b>Chapter 1</b></td>
+	</tr>
+	<tr>
+		<td><b>Automata</b></td>
+		<td colspan="2">Something that works automatically.</td>
+	</tr>
+	<tr>
 		<td colspan="3"><b>Chapter 2</b></td>
 	</tr>
 	<tr>
@@ -11,6 +18,15 @@
 	</tr>
 	<tr>
 		<td colspan="3">An alphabet can be used to build strings. aabaa is a valid string for the alphabet defined. As string is an ordered sequence of characters of the alphabet. </td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<ul>
+				<li>&Sigma; = {a,b}</li>
+				<li>&Sigma; = {0,1} //an alphabet the computer understands</li>
+				<li>&Sigma; = {i,j,k}</li>
+			</ul>
+		 </td>
 	</tr>
 	<tr>
 		<td><b>Empty or null string</b></td>
